@@ -10,8 +10,8 @@ shop2 	= source_code (laravel,vue,tailwindcss)
 shop 	  = database (mysql)
 
 ### USERS
-admin 	= den@app.com/password 	- (create category/subcategory/product)
-user 	= user@app.com/password 	- 
+1. admin 	= den@app.com/password 	- (create category/subcategory/product)
+2. user 	= user@app.com/password 	- 
 
 ### INSTRUCTION
 1. Go to shop2
